@@ -1,4 +1,20 @@
+<div style="text-align:center">
+  <img src="https://user-images.githubusercontent.com/60079684/118279315-48f04a00-b4cb-11eb-8365-057c5f06b9d9.jpg" alt="drawing" width="200"/>
+</div>
+
 ### Hi there 👋
+I'm Hubert, I am a student at Warsaw University of Technology.
+Right now I'm pursuing a Bachelor in Applied Computer Science degree.
+- 🔭 I’m currently working on a <strong>Work Schedule Generator</strong> web app
+- 👯 I’m opened to group projects
+
+#### Skills
+- [x] Java
+- [x] Spring Boot
+- [x] SQL
+- [x] Bootstrap
+- [x] Algorithms and Data Structures
+
 
 <!--
 **nakielsh/nakielsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
