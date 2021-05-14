@@ -9,7 +9,7 @@ Right now I'm pursuing a Bachelor in Applied Computer Science degree.
 - 🔭 I’m currently working on a <strong>Work Schedule Generator</strong> web app
 - 👯 I’m opened to group projects
 
-#### Skills
+#### Skills I'm working on
 - [x] Java
 - [x] Spring Boot
 - [x] SQL
