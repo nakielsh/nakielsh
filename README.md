@@ -14,7 +14,9 @@ Right now I'm pursuing a Bachelor in Applied Computer Science degree.
 - [x] Spring Boot
 - [x] SQL
 - [x] Bootstrap
+- [x] Thymeleaf
 - [x] Algorithms and Data Structures
+
 
 
 <!--
