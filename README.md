@@ -12,7 +12,7 @@
 I'm Hubert, I am a student at Warsaw University of Technology.
 Right now I'm pursuing a Bachelor in Applied Computer Science degree.
 - 🔭 I’m currently working on a <strong>Work Schedule Generator</strong> web app
-- 👯 I’m opened to group projects
+- 👨‍💻 I’m opened to group projects
 
 #### Skills I'm working on
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)\
