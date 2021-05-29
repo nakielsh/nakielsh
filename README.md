@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 [![Linkedin](https://img.shields.io/badge/-Hubert_Nakielski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-nakielski-2b54981b9/)
-[![Follow](https://img.shields.io/github/followers/nakielsh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/login?return_to=%2Fnakielsh)
+[![Follow](https://img.shields.io/github/followers/nakielsh.svg?style=social)](https://github.com/login?return_to=%2Fnakielsh)
 
 I'm Hubert, I am a student at Warsaw University of Technology.
 Right now I'm pursuing a Bachelor in Applied Computer Science degree.
