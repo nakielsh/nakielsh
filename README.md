@@ -21,8 +21,5 @@ Right now I'm pursuing a Bachelor in Applied Computer Science degree.
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-217346?style=for-the-badge&logo=thymeleaf&logoColor=white)
 <!-- - [x] Algorithms and Data Structures -->
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JIMP-HNKS/P2-WireWorld/pull/1) in [JIMP-HNKS/P2-WireWorld](https://github.com/JIMP-HNKS/P2-WireWorld)
-2. 💪 Opened PR [#1](https://github.com/JIMP-HNKS/P2-WireWorld/pull/1) in [JIMP-HNKS/P2-WireWorld](https://github.com/JIMP-HNKS/P2-WireWorld)
-<!--END_SECTION:activity-->
+
 
