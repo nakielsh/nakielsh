@@ -10,7 +10,7 @@
  -->
 I'm Hubert, I am a student at Warsaw University of Technology.
 Right now I'm pursuing a Bachelor in Applied Computer Science degree.
-- 👨‍💻 I’m currently working on a <strong>OLX Clone</strong> web app
+- 👨‍💻 I’m currently working on a <strong>OLX Clone</strong>
 - 💻 I’m opened to group projects
 
 #### Skills I'm working on
